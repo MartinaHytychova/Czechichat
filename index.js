@@ -15,7 +15,6 @@ const Message = (props) => {
       </h5>
       <p class="card-text">${props.message}</p>
     </div>
-    <button id="delete">Delete</button>
   </div>`;
 };
 
